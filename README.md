@@ -1,7 +1,7 @@
 # Personal-Assistant-AI
-Played with some great python packages like speech_recognition , pyaudio and wolfram Alpha.
-I named it IRIS in Honour of my Cat which is not with me anymore .&nbsp;  
-take a look at the code.&nbsp;  
+Played with some great python packages like speech_recognition , pyaudio and wolfram Alpha.&nbsp;   
+I named it IRIS in Honour of my Cat which is not with me anymore.  
+Take a look at the code and get your own Api keys for all the api's used, you can create an account and get the api keys&nbsp;  
 Happy Learning!.&nbsp; 
 
 
